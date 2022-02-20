@@ -1,4 +1,4 @@
-# Lesson 1: Outputting a String
+# Lesson 1: Outputting a String/
 
 puts "Hello World!"
 
